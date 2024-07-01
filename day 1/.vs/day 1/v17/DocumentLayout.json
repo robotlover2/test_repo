@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\82105\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\robit c \uC5B8\uC5B4\\day 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D940D51E-FE18-4CA6-8F37-8CE442692781}|day 1.vcxproj|C:\\Users\\82105\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\robit c \uC5B8\uC5B4\\day 1\\test 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D940D51E-FE18-4CA6-8F37-8CE442692781}|day 1.vcxproj|solutionrelative:test 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D940D51E-FE18-4CA6-8F37-8CE442692781}|day 1.vcxproj|C:\\Users\\82105\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\robit c \uC5B8\uC5B4\\day 1\\day 1 .cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D940D51E-FE18-4CA6-8F37-8CE442692781}|day 1.vcxproj|solutionrelative:day 1 .cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test 1.cpp",
+              "DocumentMoniker": "C:\\Users\\82105\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\robit c \uC5B8\uC5B4\\day 1\\test 1.cpp",
+              "RelativeDocumentMoniker": "test 1.cpp",
+              "ToolTip": "C:\\Users\\82105\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\robit c \uC5B8\uC5B4\\day 1\\test 1.cpp",
+              "RelativeToolTip": "test 1.cpp",
+              "ViewState": "AQIAADgAAAAAAAAWd2bxv1QAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-01T03:59:02.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "day 1 .cpp",
+              "DocumentMoniker": "C:\\Users\\82105\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\robit c \uC5B8\uC5B4\\day 1\\day 1 .cpp",
+              "RelativeDocumentMoniker": "day 1 .cpp",
+              "ToolTip": "C:\\Users\\82105\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\robit c \uC5B8\uC5B4\\day 1\\day 1 .cpp",
+              "RelativeToolTip": "day 1 .cpp",
+              "ViewState": "AQIAAF8AAAAAAAAmNtkZwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-01T01:44:21.749Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
